@@ -1,2 +1,2 @@
 # git_test
-Hello Odin!
+Hello I am learning git!
